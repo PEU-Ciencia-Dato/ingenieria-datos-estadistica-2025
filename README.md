@@ -1,5 +1,9 @@
 # Ingeniería de datos Aplicado a la Estadística 2025
 
+
+<div> <img src="https://cdn.www.gob.pe/uploads/campaign/photo/000/069/252/Banner-4.jpg" max-width="600px"/> </div>
+
+
 ## Información general
 
 <table style="width:100%; border-collapse: collapse; font-size:0.9em;">
