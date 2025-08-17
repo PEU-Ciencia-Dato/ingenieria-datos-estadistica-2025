@@ -83,13 +83,13 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Manejo de datos faltantes (imputación simple/múltiple)
+        Detección y tratamiento de outliers
       </td>
       <td style="border:1px solid #ccc; padding:8px;">19/08</td>
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Detección y tratamiento de outliers
+        Manejo de datos faltantes (imputación simple/múltiple)
       </td>
       <td style="border:1px solid #ccc; padding:8px;">21/08</td>
     </tr>
