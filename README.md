@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        <a href="https://vfuentesc.quarto.pub/5-atipicos/">Detección y tratamiento de outliers</a>
+        <a href="https://vfuentesc.quarto.pub/5_atipicos/">Detección y tratamiento de outliers</a>
       </td>
       <td style="border:1px solid #ccc; padding:8px;">19/08</td>
     </tr>
