@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        <a href="https://vfuentesc.quarto.pub/5_atipicos/">Detección y tratamiento de outliers</a>
+        <a href="https://vfuentesc.quarto.pub/5-atipicos/">Detección y tratamiento de outliers</a>
       </td>
       <td style="border:1px solid #ccc; padding:8px;">19/08</td>
     </tr>
@@ -98,13 +98,13 @@
         Reducción de Dimensionalidad y Agrupamiento
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
-        PCA (explicación intuitiva, aplicación práctica)
+        <a href="https://vfuentesc.quarto.pub/7-pca/">PCA</a> (explicación intuitiva, aplicación práctica)
       </td>
       <td style="border:1px solid #ccc; padding:8px;">26/08</td>
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Clustering (K-medias, interpretación de resultados)
+        <a href="https://vfuentesc.quarto.pub/8-clustering/">Clustering</a> (K-medias, interpretación de resultados)
       </td>
       <td style="border:1px solid #ccc; padding:8px;">28/08</td>
     </tr>
@@ -113,13 +113,13 @@
         Visualización y Caso Práctico
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
-        Gráficos estáticos vs. dinámicos
+        <a href="https://vfuentesc.quarto.pub/9-dataviz/">Gráficos</a> estáticos vs. dinámicos
       </td>
       <td style="border:1px solid #ccc; padding:8px;">02/09</td>
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Mini-proyecto integrador (EDA + limpieza + clustering + visualización)
+        <a href="https://vfuentesc.quarto.pub/10-mini/">Mini-proyecto integrador</a> (EDA + limpieza + clustering + visualización)
       </td>
       <td style="border:1px solid #ccc; padding:8px;">04/09</td>
     </tr>
