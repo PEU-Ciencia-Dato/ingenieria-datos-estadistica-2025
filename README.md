@@ -83,13 +83,13 @@
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Detección y tratamiento de outliers
+        <a href="https://vfuentesc.quarto.pub/5-atipicos/">Detección y tratamiento de outliers</a>
       </td>
       <td style="border:1px solid #ccc; padding:8px;">19/08</td>
     </tr>
     <tr>
       <td style="border:1px solid #ccc; padding:8px;">
-        Manejo de datos faltantes (imputación simple/múltiple)
+        <a href="https://vfuentesc.quarto.pub/6-imputacion/">Manejo de datos faltantes</a>  (imputación simple/múltiple)
       </td>
       <td style="border:1px solid #ccc; padding:8px;">21/08</td>
     </tr>
